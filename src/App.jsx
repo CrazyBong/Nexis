@@ -1,4 +1,4 @@
-import Login from './Login'
+import  './Login'
 import './index.css'
 
 const App = () => {
