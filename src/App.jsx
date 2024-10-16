@@ -1,10 +1,11 @@
-import Login from './Login'
-import './index.css'
+import PreLoader from './PreLoader.jsx'
+import './PreLoader.scss'
+
 
 const App = () => {
   return (
     <div>
-      <Login/>
+      <PreLoader/>
     </div>
   )
 }
